@@ -1,6 +1,8 @@
 # user_input_widget
 
-A new Flutter project.
+This is demo of user input. You can check code here.
+
+![Screenshot 2025-02-08 172551](https://github.com/user-attachments/assets/15f97540-358c-49a0-bb29-b916597e7349)
 
 ## Getting Started
 
